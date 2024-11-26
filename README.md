@@ -1,6 +1,6 @@
 Glass Bridge Game
 
-A ""Glass Bridge Game"" developed in ""Java"", inspired by the popular survival challenge concept. The game challenges players to cross a glass bridge by making calculated decisions to step on the correct tiles without falling through.
+A ""Glass Bridge Game"" developed in Java, inspired by the popular survival challenge concept. The game challenges players to cross a glass bridge by making calculated decisions to step on the correct tiles without falling through.
 
 🕹️ Game Description
 
@@ -43,9 +43,7 @@ Installation:
   `no-step.jpeg`: Image indicating no step.
   `README.md`**: Project description and setup guide.
 
-📸 Screenshots
 
-*Add screenshots of your game here to showcase the GUI and gameplay.*
 
 🌟 Features for Future Development
 
